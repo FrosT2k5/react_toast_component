@@ -1,7 +1,8 @@
 # Toast Component Project
 
 A [toast component project](https://github.com/joy-of-react/project-toast) from joy-of-react course. In this repo I am uploading my solution in order to learn hosting react application and provide demo of my solution.
-demo url: 
+
+demo url: https://frosttoastcomponent-yashs-projects-135d4f37.vercel.app/
 
 ## Joy of React, Project II
 
