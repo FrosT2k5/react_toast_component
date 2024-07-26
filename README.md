@@ -1,5 +1,8 @@
 # Toast Component Project
 
+A [toast component project](https://github.com/joy-of-react/project-toast) from joy-of-react course. In this repo I am uploading my solution in order to learn hosting react application and provide demo of my solution.
+demo url: 
+
 ## Joy of React, Project II
 
 In this project, we'll dive deep into the implementation of a single common UI component: A `<Toast>` message component.
