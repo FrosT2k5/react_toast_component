@@ -21,7 +21,7 @@ const ICONS_BY_VARIANT = {
 
 function Toast({message, option, handleDismiss}) {
   const style_class = styles[option]
-  ToastIcon = ICONS_BY_VARIANT[option]
+  const ToastIcon = ICONS_BY_VARIANT[option]
 
   console.log("Toast Rerender")
   return (
